@@ -13,5 +13,5 @@
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/pedrotavio20222/)
  
   
-  [<img height="150em" src = "https://thumbs.gfycat.com/SevereEvilGangesdolphin-max-1mb.gif">]
+  <img height="150em" src = "https://thumbs.gfycat.com/SevereEvilGangesdolphin-max-1mb.gif">
    
